@@ -1,8 +1,13 @@
 👨‍💻 Welcome to Lucas Bernardeau's GitHub
 
+---
+
 🎓 Computer Engineering Student at EPITA (Class of 2028).
+
 💻 Passionate about software development, problem-solving, and innovative technologies.
+
 🛠️ Skills and Technologies
+
 
 Programming Languages: Python, C, C++, C#, OCaml, ASM 68000, HTML, CSS, JavaScript.
 Tools and Platforms: Git, Visual Studio Code, JetBrains Rider, Vim, Overleaf, Microsoft Office.
@@ -12,6 +17,7 @@ Specializations:
     Game design and immersive mechanics.
 
 🚀 Featured Projects
+
 🕹️ Les Maisons Aux Âmes Perdues (Sept. 2023 - June 2024)
 
 A video game development project combining design and programming:
