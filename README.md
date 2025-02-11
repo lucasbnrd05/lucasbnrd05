@@ -10,7 +10,9 @@
 
 
 Programming Languages: Python, C, C++, C#, OCaml, ASM 68000, HTML, CSS, JavaScript.
+
 Tools and Platforms: Git, Visual Studio Code, JetBrains Rider, Vim, Overleaf, Microsoft Office.
+
 Specializations:
     Algorithm optimization and problem-solving.
     User interface and user experience design (UI/UX).
