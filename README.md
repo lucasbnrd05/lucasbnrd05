@@ -41,23 +41,6 @@
   </a>
 </div>
 
-
-
-### 🚀 Featured Projects:
-
-#### 🕹️ **Les Maisons Aux Âmes Perdues** *(Sept. 2023 - June 2024)*  
-A video game development project combining design and programming:  
-- 🎮 Interactive level design and immersive mechanics.  
-- 🛠️ Development of user-friendly interfaces.  
-- 🤝 Collaboration with a team in an academic setting.  
-
----
-
-#### 🔍 **OCR Word Search Solver** *(Sept. 2024 - Dec. 2024)*  
-An application utilizing optical character recognition (OCR) for automatic grid-solving:  
-- ⚙️ Implementation of efficient algorithms in **C**.  
-- 🧠 Integration of OCR technology for grid analysis.  
-
 ---
 
 ### 🌱 Goals on GitHub:  
