@@ -28,7 +28,7 @@
 ### <img src=".ressources/tools.gif" width="30" style="vertical-align: middle;"> Tools and Platforms:
 
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=git,vscode,rider,vim,overleaf,msoffice">
+  <a href="https://skillicons.dev/icons?i=git,vscode,rider,vim,overleaf">
     <img src="https://skillicons.dev/icons?i=git,vscode,rider,vim,overleaf" alt="tools and platforms">
   </a>
 </div>
