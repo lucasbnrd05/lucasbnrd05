@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev/icons?i=git,vscode,rider,vim,overleaf,msoffice">
-    <img src="https://skillicons.dev/icons?i=git,vscode,rider,vim,overleaf,msoffice" alt="tools and platforms">
+    <img src="https://skillicons.dev/icons?i=git,vscode,rider,vim,overleaf" alt="tools and platforms">
   </a>
 </div>
 
