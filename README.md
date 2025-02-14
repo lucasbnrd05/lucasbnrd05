@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  👨‍💻 Welcome to Lucas Bernardeau's GitHub
+  👨‍💻 Welcome to Lucas GitHub
 </h1>
 
 
