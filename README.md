@@ -54,13 +54,20 @@
 
 ### 🌐 Top Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbnrd05&layout=compact&theme=light&count=15&hide=html,css&langs_count=15)
+<div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbnrd05&layout=compact&theme=light&count=15)">
+</div>
 
 ## Stats 📊
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbnrd05&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=light&count_private=true)
+<div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=lucasbnrd05&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=light&count_private=true">
+</div>
 
+---
 
+<div align="center">
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600">
 
+</div>
 
