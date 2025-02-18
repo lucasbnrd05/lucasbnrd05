@@ -58,11 +58,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbnrd05&layout=compact&theme=light&count=15)">
 </div>
 
-## Stats 📊
-
-<div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=lucasbnrd05&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=light&count_private=true">
-</div>
 
 ---
 
