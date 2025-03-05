@@ -19,8 +19,8 @@
 ### <img src=".ressources/languages.gif" width="30" style="vertical-align: middle;"> Programming Languages:
 
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js,java" alt="programming languages">
+  <a href="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js,java,uml">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js,java,uml" alt="programming languages">
   </a>
 </div>
 
