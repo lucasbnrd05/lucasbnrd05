@@ -19,25 +19,34 @@
 ### <img src=".ressources/languages.gif" width="30" style="vertical-align: middle;"> Programming Languages:
 
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js,java,uml">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js,java,uml" alt="programming languages">
+  <a href="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js" alt="programming languages">
   </a>
+  <br>
+  <a href="https://skillicons.dev/icons?i=java,latex,ocaml,md,kotlin,bash">
+    <img src="https://skillicons.dev/icons?i=java,latex,ocaml,md,kotlin,bash" alt="programming languages">
+  </a>
+
 </div>
 
 
 ### <img src=".ressources/tools.gif" width="30" style="vertical-align: middle;"> Tools and Platforms:
 
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=git,vscode,rider,vim,overleaf">
-    <img src="https://skillicons.dev/icons?i=git,vscode,rider,vim,overleaf" alt="tools and platforms">
+  <a href="https://skillicons.dev/icons?i=git,gitlab,github,vscode,rider,vim">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,rider,vim" alt="tools and platforms">
+  </a>
+  <br>
+  <a href="https://skillicons.dev/icons?i=rider,raspberrypi,obsidian,godot,figma,emacs">
+    <img src="https://skillicons.dev/icons?i=rider,raspberrypi,obsidian,godot,figma,emacs" alt="tools and platforms">
   </a>
 </div>
 
 ### <img src=".ressources/systems.gif" width="30" style="vertical-align: middle;"> Operating Systems:
 
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=windows,linux,ubuntu,nix">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,nix" alt="os">
+  <a href="https://skillicons.dev/icons?i=windows,linux,ubuntu,nix,kali">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,nix,kali" alt="os">
   </a>
 </div>
 
