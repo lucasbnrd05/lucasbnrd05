@@ -1,18 +1,41 @@
 
-
-
 <h1 align="center">
   👨‍💻 Hello, I'm Lucas
 </h1>
 
+# About Me
+```c
+#include <stdio.h>
 
------------------------------------------------
+// 🎓 Computer Engineering Student at EPITA (Class of 2028)
+typedef struct {
+    char university[10];
+    int graduationYear;
+    char major[30];
+} Student;
 
+Student me = { "EPITA", 2028, "Computer Engineering" };
 
-### 🎓 Computer Engineering Student at EPITA (Class of 2028).
+// 💻 Passionate about software development, problem-solving, and innovative technologies.
+const char *passions[] = {
+    "Software Development",
+    "Problem-Solving",
+    "Innovative Technologies"
+};
 
-### 💻 Passionate about software development, problem-solving, and innovative technologies.
+// 🚀 Always learning, always building.
+void exploreAndBuild() {
+    printf("🚀 Exploring my passions:\n");
+    for (int i = 0; i < 3; i++) {
+        printf("  - %s\n", passions[i]);
+    }
+}
 
+int main() {
+    exploreAndBuild();
+    return 0;
+}
+```
 
 ## 🛠️ Skills and Technologies
 
@@ -26,9 +49,7 @@
   <a href="https://skillicons.dev/icons?i=java,latex,ocaml,md,kotlin,bash">
     <img src="https://skillicons.dev/icons?i=java,latex,ocaml,md,kotlin,bash" alt="programming languages">
   </a>
-
 </div>
-
 
 ### <img src=".ressources/tools.gif" width="30" style="vertical-align: middle;"> Tools and Platforms:
 
@@ -52,26 +73,25 @@
 
 ---
 
-### 🌱 Goals on GitHub:  
-- 🌍 Contributing to open-source projects.  
-- 🤖 Expanding knowledge in fields like artificial intelligence and game development.  
-- 💡 Showcasing academic and personal projects to connect with like-minded developers.  
-
----
-
-✨ Thank you for visiting my profile! Feel free to explore my repositories and projects. 🌟
-
-### 🌐 Top Languages:
+### 🌐 Top Languages & GitHub Stats:
 
 <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbnrd05&layout=compact&theme=light&count=15)">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbnrd05&layout=compact&theme=light&count=8" alt="Top Langs">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=lucasbnrd05&show_icons=true&theme=light" alt="GitHub Stats">
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
 </div>
 
-
----
-
 <div align="center">
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600">
-
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600">
 </div>
 
