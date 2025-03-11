@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  👨‍💻 Welcome to Lucas GitHub
+  👨‍💻 Hello, I'm Lucas
 </h1>
 
 
