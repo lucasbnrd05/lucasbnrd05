@@ -58,8 +58,8 @@ int main() {
     <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,rider,vim" alt="tools and platforms">
   </a>
   <br>
-  <a href="https://skillicons.dev/icons?i=rider,raspberrypi,obsidian,godot,figma,emacs">
-    <img src="https://skillicons.dev/icons?i=rider,raspberrypi,obsidian,godot,figma,emacs" alt="tools and platforms">
+  <a href="https://skillicons.dev/icons?i=raspberrypi,obsidian,godot,figma,emacs">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,obsidian,godot,figma,emacs" alt="tools and platforms">
   </a>
 </div>
 
