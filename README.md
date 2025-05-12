@@ -70,8 +70,8 @@ int main() {
     <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js" alt="programming languages">
   </a>
   <br>
-  <a href="https://skillicons.dev/icons?i=java,latex,ocaml,md,kotlin,bash">
-    <img src="https://skillicons.dev/icons?i=java,latex,ocaml,md,kotlin,bash" alt="programming languages">
+  <a href="https://skillicons.dev/icons?i=java,latex,ocaml,md,kotlin,bash,dart">
+    <img src="https://skillicons.dev/icons?i=java,latex,ocaml,md,kotlin,bash,dart" alt="programming languages">
   </a>
 </div>
 
