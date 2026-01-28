@@ -1,4 +1,3 @@
-
 <h1 align="center">
   👨‍💻 Hello, I'm Lucas
 </h1>
@@ -9,17 +8,19 @@
       <img src="./source/starterpack.png" width="200" alt="Starter Pack" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     </td>
     <td style="text-align: left; padding-left: 20px; border: none; border-style: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbnrd05&layout=compact&theme=light&count=10" alt="Top Langs" style="max-width: 100%; border-radius: 8px;">
-      <p style="font-size: 16px; color: #333; margin-top: 10px;">🚀 Always learning, always building</p>
-      <div style="display: flex; justify-content: flex-start; gap: 12px; margin-top: 10px;">
+      <h3 style="margin-top: 0; color: #333;">Computer Engineering Student at EPITA</h3>
+      <p style="font-size: 16px; color: #555; margin-top: 5px;">🚀 Always learning, always building</p>
+      <div style="display: flex; justify-content: flex-start; gap: 12px; margin-top: 15px;">
         <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux" alt="Linux badge" style="border-radius: 20px;">
         <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visualstudiocode" alt="VSCode badge" style="border-radius: 20px;">
         <img src="https://img.shields.io/badge/Language-C-informational?style=flat&logo=c" alt="C badge" style="border-radius: 20px;">
         <img src="https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html" alt="HTML badge" style="border-radius: 20px;">
         <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python" alt="Python badge" style="border-radius: 20px;">
       </div>
-      <p style="margin-top: 15px; font-size: 16px; color: #333;">
-        🌐 <a href="https://lucasbnrd05.github.io/html/index.html" target="_blank" style="color: #007bff; text-decoration: none; font-weight: bold;">Visit my website</a>
+      <p style="margin-top: 20px; font-size: 16px; color: #333;">
+        🌐 <a href="https://www.lucasbernardeau.fr" target="_blank" style="color: #007bff; text-decoration: none; font-weight: bold;">www.lucasbernardeau.fr</a>
+        <br>
+        📧 <a href="mailto:contact@lucasbernardeau.fr" style="color: #333; text-decoration: none;">contact@lucasbernardeau.fr</a>
       </p>
     </td>
   </tr>
@@ -32,32 +33,31 @@
 ```c
 #include <stdio.h>
 
-// 🎓 Computer Engineering Student at EPITA (Class of 2028)
+// 🎓 Engineering Student at EPITA (Class of 2028)
+// 📍 Looking for a 4-5 month Internship starting Sept. 2025
 typedef struct {
     char university[10];
-    int graduationYear;
-    char major[30];
+    char focus[40];
+    char email[30];
 } Student;
 
-Student me = { "EPITA", 2028, "Computer Engineering" };
+Student me = {
+    .university = "EPITA",
+    .focus = "System, Unix & Embedded",
+    .email = "contact@lucasbernardeau.fr"
+};
 
-// 💻 Passionate about software development, problem-solving, and innovative technologies.
-const char *passions[] = {
-    "Software Development",
-    "Problem-Solving",
+// 💻 Passionate about low-level development and hardware.
+const char *interests[] = {
+    "C / C++ Programming",
+    "Embedded Systems",
     "Innovative Technologies"
 };
 
-// 🚀 Always learning, always building.
-void exploreAndBuild() {
-    printf("🚀 Exploring my passions:\n");
-    for (int i = 0; i < 3; i++) {
-        printf("  - %s\n", passions[i]);
-    }
-}
-
 int main() {
-    exploreAndBuild();
+    printf("🚀 Student at %s, focusing on %s.\n", me.university, me.focus);
+    printf("🔎 Objective: Internship in Sept 2025.\n");
+    printf("📧 Write me: %s\n", me.email);
     return 0;
 }
 ```
@@ -66,49 +66,39 @@ int main() {
 
 ### 👨‍💻 Programming Languages
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js" alt="programming languages">
+  <a href="https://skillicons.dev/icons?i=c,cpp,python,java,cs,bash,mysql">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs,bash,mysql" alt="System & Backend">
   </a>
   <br>
-  <a href="https://skillicons.dev/icons?i=java,latex,ocaml,md,kotlin,bash,dart">
-    <img src="https://skillicons.dev/icons?i=java,latex,ocaml,md,kotlin,bash,dart" alt="programming languages">
+  <a href="https://skillicons.dev/icons?i=html,css,js,flutter,kotlin,dart,latex,md,ocaml">
+    <img src="https://skillicons.dev/icons?i=html,css,js,flutter,kotlin,dart,latex,md,ocaml" alt="Web, Mobile & Docs">
   </a>
 </div>
 
 ### 🛠️ Tools and Platforms
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=git,gitlab,github,vscode,rider,vim">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,rider,vim" alt="tools and platforms">
+  <a href="https://skillicons.dev/icons?i=git,gitlab,github,vscode,rider,vim,emacs">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,rider,vim,emacs" alt="Dev Tools & Editors">
   </a>
   <br>
-  <a href="https://skillicons.dev/icons?i=raspberrypi,obsidian,godot,figma,emacs">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,obsidian,godot,figma,emacs" alt="tools and platforms">
+  <a href="https://skillicons.dev/icons?i=raspberrypi,arduino,cmake,godot,figma,obsidian">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,cmake,godot,figma,obsidian" alt="Hardware & Platforms">
   </a>
 </div>
+
 
 ### 💻 Operating Systems
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=windows,linux,ubuntu,nix,kali">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,nix,kali" alt="os">
+  <a href="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" alt="Operating Systems">
   </a>
 </div>
 
+
+
 ---
 
-### 🌐 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=lucasbnrd05&show_icons=true&theme=light" alt="GitHub Stats">
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600">
