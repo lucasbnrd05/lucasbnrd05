@@ -34,7 +34,7 @@
 #include <stdio.h>
 
 // 🎓 Engineering Student at EPITA (Class of 2028)
-// 📍 Looking for a 4-5 month Internship starting Sept. 2025
+// 📍 Looking for a 4-5 month Internship starting Sept. 2026
 typedef struct {
     char university[10];
     char focus[40];
@@ -56,7 +56,7 @@ const char *interests[] = {
 
 int main() {
     printf("🚀 Student at %s, focusing on %s.\n", me.university, me.focus);
-    printf("🔎 Objective: Internship in Sept 2025.\n");
+    printf("🔎 Objective: Internship in Sept 2026.\n");
     printf("📧 Write me: %s\n", me.email);
     return 0;
 }
