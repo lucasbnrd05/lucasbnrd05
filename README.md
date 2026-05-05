@@ -97,7 +97,21 @@ int main() {
 
 
 ---
+# 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=lucasbnrd05&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lucasbnrd05&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucasbnrd05&theme=transparent&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
 
 
 <div align="center">
